@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/grocery-list/static/css/main.7ea6f31f.css",
+    "main.js": "/grocery-list/static/js/main.4979e06f.js",
+    "static/js/787.448c4af9.chunk.js": "/grocery-list/static/js/787.448c4af9.chunk.js",
+    "static/media/shopping-bag.jpg": "/grocery-list/static/media/shopping-bag.48efe8f07a35f0373b92.jpg",
+    "static/media/man.jpg": "/grocery-list/static/media/man.f962dc224416800aa17d.jpg",
+    "static/media/icon-bag.png": "/grocery-list/static/media/icon-bag.b03c651fb5ded728b697.png",
+    "index.html": "/grocery-list/index.html",
+    "main.7ea6f31f.css.map": "/grocery-list/static/css/main.7ea6f31f.css.map",
+    "main.4979e06f.js.map": "/grocery-list/static/js/main.4979e06f.js.map",
+    "787.448c4af9.chunk.js.map": "/grocery-list/static/js/787.448c4af9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ea6f31f.css",
+    "static/js/main.4979e06f.js"
+  ]
+}
